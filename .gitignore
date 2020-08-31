@@ -1,2 +1,5 @@
 # Python notebook leftovers
 *.ipynb_checkpoints
+
+# Hands-On ML book material
+handson-ml2/*
