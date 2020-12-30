@@ -1,2 +1,2 @@
 # python_ML_exercises
-Work from python ML exercises and tutorials.
+Code and notes from python ML exercises.
